@@ -1,5 +1,5 @@
 Meteor.startup(function(){
-  SpinningClasses = Meteor.subscribe('SpinningClasses');  
+   Meteor.subscribe('SpinningClasses');  
   
   
   
